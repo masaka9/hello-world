@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-this is the hello-world repo
+Hi, Humans!
+
+Yo-Hoo here! I like C and C++, also python.
+Just so.
